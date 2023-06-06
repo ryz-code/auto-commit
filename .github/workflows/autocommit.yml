@@ -49,4 +49,4 @@ jobs:
         with:
           force: true
           directory: "."
-          gh_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
